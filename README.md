@@ -1,4 +1,3 @@
-## A multimodal approach for alignment and enrichment of Do IT Yourself (DIY) videos
 
 This page serves the findings and datasets of the research project for DIY videos in cooking domain. 
 
